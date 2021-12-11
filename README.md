@@ -3,7 +3,7 @@
 **Below are the steps to  open and run the application** 
 
  1.Download the code from GIT .
- 2.Open the code in .net core application.The .net core version that I am using here is 3.0
+ 2.Open the code  in Visual Studio by doule clicking on the solution file from downloaded folder.The .net core version that I am using here is 3.0
  3.Build the application and run/debug the same
  4.As I had configured the app1lication with swagger,as soon as you run the application ,you see the swagger page on the browser with all api's and their methods to test the same
 
